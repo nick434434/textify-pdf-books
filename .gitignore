@@ -1,0 +1,9 @@
+*.jpg
+*.png
+*.pdf
+*.tiff
+*.bmp
+venv/
+*.pyc
+*.cache
+*.txt
